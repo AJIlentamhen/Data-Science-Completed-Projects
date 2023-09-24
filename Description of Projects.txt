@@ -1,0 +1,6 @@
+To reiterate, these are two projects that I completed while taking the Data Science Cohort for Springboard's Data Science track.
+They both exemplify my ablility to handle data science projects holistically, from collection to modeling alogorithms. The London
+Boroughs project focuses on data analysis via Python and Pandas, while the capstone project culminates with scaling data, preprocessing,
+and training an algorithmic model to solve the issue of whether a ski resort based in Montana can analyze (before the start of the next skiing season, preferably within the next two days) the number of facilities that 330 U.S ski resorts who are part of the same market share as themselves have, as well as the ticket prices of these resorts and the number of people who ski and/or snowboard at these resorts yearly in order to use these statistics as a guide to determine where to price their tickets (preferably higher than what they currently are) and if there are costs that they can cut that won't undermine their ticket prices. A problem worksheet to help determine the scope of the issue from a 
+Data Scientist's perspective is included in the form of a Microsoft Powerpoint prior to the wrangling, analysis, preprocessing, and modeling 
+of the ski resort data. 
